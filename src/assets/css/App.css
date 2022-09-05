@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: grey
+}
+
+.form-group{
+  width: 100%;
+}
